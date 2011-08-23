@@ -1,1 +1,2 @@
+fabric#egg=Fabric
 git+git://github.com/ChristopherMacGown/python-github3.git#egg=GitHub3
